@@ -11,6 +11,14 @@
 
 ㆍQt designer
 
+ㆍMySQL  v..
+
+ㆍpyinstaller
+
+ㆍpycharm
+
+
+
 
 # 명령어 코드
 
