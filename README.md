@@ -16,4 +16,5 @@
 
 
 # 게임 장면
+![3](https://user-images.githubusercontent.com/66295630/111086077-c3e5c480-855d-11eb-8246-225bdf89db21.png)
 
