@@ -1,7 +1,7 @@
 # suttda_game
 
 
-# 개발 환경
-python 3.7
-PyQt5
-Qt designer
+ㆍ 개발 환경
+ㆍpython 3.7
+ㆍPyQt5
+ㆍQt designer
