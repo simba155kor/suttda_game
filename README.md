@@ -24,5 +24,11 @@
 
 
 # 게임 장면
+![1](https://user-images.githubusercontent.com/66295630/111086241-6dc55100-855e-11eb-89ec-2f6caa82c8a8.PNG)
+
+
+![2](https://user-images.githubusercontent.com/66295630/111086243-6f8f1480-855e-11eb-9901-7a3f0cff7f69.PNG)
+
+
 ![3](https://user-images.githubusercontent.com/66295630/111086077-c3e5c480-855d-11eb-8246-225bdf89db21.png)
 
