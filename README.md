@@ -78,12 +78,12 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 
 
 # 게임 장면
-
+client window 스크립트를 실행하면 처음 등장하는 화면입니다. 회원가입으로 MySQL 서버에 계정을 등록합니다. 
 ![1](https://user-images.githubusercontent.com/66295630/111123080-3da79d80-85b2-11eb-87e8-b0f9625e0823.png)
 ![2](https://user-images.githubusercontent.com/66295630/111123084-3e403400-85b2-11eb-9304-bd79e0da7de6.png)
 
 -------------------------------------------
-
+게임 중인 화면입니다. 
 ![3](https://user-images.githubusercontent.com/66295630/111122580-9460a780-85b1-11eb-95ce-22f02dd80beb.PNG)
 ![4](https://user-images.githubusercontent.com/66295630/111122584-9591d480-85b1-11eb-91dd-242034f7177d.PNG)
 ![5](https://user-images.githubusercontent.com/66295630/111122587-962a6b00-85b1-11eb-986a-5236721c0a05.PNG)
