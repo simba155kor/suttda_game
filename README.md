@@ -1,3 +1,5 @@
+![1](https://user-images.githubusercontent.com/66295630/111122833-eefa0380-85b1-11eb-940b-41fa0e207694.png)
+![2](https://user-images.githubusercontent.com/66295630/111122837-ef929a00-85b1-11eb-86b5-165bafa8827f.png)
 # suttda_game
 
 20장의 화투패에서 각자 총 3장의 카드를 받고 배팅하여 누가 족보가 더 높은지로 승부하는 게임입니다. 각자 처음에 2장의 패를 받고 배팅한 후 1장을 더 받고나서 마지막으로 어떠한 족보를 선택할지 고릅니다. 
