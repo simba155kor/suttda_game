@@ -41,6 +41,8 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 ㆍ300  : client의 다이 요청
 
 
+
+
 클라이언트 측이 받는 pickle 메시지의 status_code가
 ㆍ51  : server의 게임 시작을 알리는 메시지
 
