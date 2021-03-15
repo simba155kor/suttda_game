@@ -82,11 +82,7 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 ![1](https://user-images.githubusercontent.com/66295630/111123080-3da79d80-85b2-11eb-87e8-b0f9625e0823.png)
 ![2](https://user-images.githubusercontent.com/66295630/111123084-3e403400-85b2-11eb-9304-bd79e0da7de6.png)
 
-
-![1](https://user-images.githubusercontent.com/66295630/111086241-6dc55100-855e-11eb-89ec-2f6caa82c8a8.PNG)
-
-
-![2](https://user-images.githubusercontent.com/66295630/111086243-6f8f1480-855e-11eb-9901-7a3f0cff7f69.PNG)
+-------------------------------------------
 
 ![3](https://user-images.githubusercontent.com/66295630/111122580-9460a780-85b1-11eb-95ce-22f02dd80beb.PNG)
 ![4](https://user-images.githubusercontent.com/66295630/111122584-9591d480-85b1-11eb-91dd-242034f7177d.PNG)
