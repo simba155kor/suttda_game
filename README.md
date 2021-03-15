@@ -26,6 +26,7 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 텍스트의 경우 사용자가 채팅창을 이용하여 대화할때 용됩니다. 
 
 서버 측이 받는 pickle 메시지의 status_code가
+
 ㆍ1  : client의 준비 취소 요청
 
 ㆍ2  : client의 준비 요청
@@ -44,6 +45,7 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 
 
 클라이언트 측이 받는 pickle 메시지의 status_code가
+
 ㆍ51  : server의 게임 시작을 알리는 메시지
 
 ㆍ52  : server에 client가 입장하였을때 client의 정보를 전송
