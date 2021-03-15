@@ -3,13 +3,13 @@
 소켓 프로그래밍을 활용하여 서버와 클라이언트가 서로 메시지를 주고받으며 동작하는 화투패를 이용한 카드게임입니다. 20장의 화투패에서 각자 총 3장의 카드를 받고 배팅하여 누가 족보가 더 높은지 승부하는 게임입니다. 
 
 
-<b>server</b> 스크립트 server2.py
+<b>server2.py</b> server 스크립트 
 
-client 스크립트 client2.py, client_window2.py
+<b>client2.py, client_window2.py</b> client 스크립트 
 
-데이터베이스와 연동하기 위한 모듈 use_DB2.py
+<b>use_DB2.py</b> 데이터베이스와 연동하기 위한 모듈 
 
-게임 족보를 위한 모듈 game_tool2.py
+<b>game_tool2.py</b> 게임 족보를 위한 모듈 
 
 Qt Designer로 만든 ui 파일
 
