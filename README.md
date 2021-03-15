@@ -2,7 +2,8 @@
 
 20장의 화투패에서 각자 총 3장의 카드를 받고 배팅하여 누가 족보가 더 높은지로 승부하는 게임입니다. 각자 처음에 2장의 패를 받고 배팅한 후 1장을 더 받고나서 마지막으로 어떠한 족보를 선택할지 고릅니다. 
 
-코드에 있던 제 ip를 1xx.xxx.xxx.xxx 로 변경해두었습니다.
+server 스크립트 server2.py, client 스크립트 client2.py, client_window2.py, 데이터베이스와 연동하기 위한 모듈 use_DB2.py, 게임 족보를 위한 모듈 game_tool2.py,  
+
 
 # 개발 환경
 
@@ -19,6 +20,10 @@
 ㆍPycharm
 
 
+# 실행 방법
+코드에 있던 제 ip를 1xx.xxx.xxx.xxx 로 변경해두었습니다. server와 client 스크립트, use_DB 모듈의 ip 부분을 환경에 맞게 설정해주어야 합니다. 
+server 스크립트를 실행하고 터미널에서 1을 입력하여 서버를 구동합니다.
+server가 켜지면 client_window2 스크립트를 실행하여 게임에 접속합니다. 
 
 
 # 명령어 코드
@@ -78,12 +83,14 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 
 
 # 게임 장면
-client window 스크립트를 실행하면 처음 등장하는 화면입니다. 회원가입으로 MySQL 서버에 계정을 등록합니다. 
+client window 스크립트를 실행하면 처음 등장하는 화면입니다. 회원가입으로 MySQL server에 계정을 등록하고 성공하면 로그인하여 게임을 실행할 수 있습니다. MySQL server나 server 스크립트가 동작중이지 않으면 게임이 실행되지 않습니다.
 ![1](https://user-images.githubusercontent.com/66295630/111123080-3da79d80-85b2-11eb-87e8-b0f9625e0823.png)
 ![2](https://user-images.githubusercontent.com/66295630/111123084-3e403400-85b2-11eb-9304-bd79e0da7de6.png)
 
 -------------------------------------------
-게임 중인 화면입니다. 
+게임 중인 화면입니다. 오른쪽 하단에 있는 채팅창을 이용하여 유저들과 대화할 수 있습니다. 
+오른쪽 상단의 족보 보기를 통해 족보를 확인할 수 있습니다.
+
 ![3](https://user-images.githubusercontent.com/66295630/111122580-9460a780-85b1-11eb-95ce-22f02dd80beb.PNG)
 ![4](https://user-images.githubusercontent.com/66295630/111122584-9591d480-85b1-11eb-91dd-242034f7177d.PNG)
 ![5](https://user-images.githubusercontent.com/66295630/111122587-962a6b00-85b1-11eb-986a-5236721c0a05.PNG)
