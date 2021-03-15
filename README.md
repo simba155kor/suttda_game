@@ -4,12 +4,16 @@
 
 
 server 스크립트 server2.py
+
 client 스크립트 client2.py, client_window2.py
+
 데이터베이스와 연동하기 위한 모듈 use_DB2.py
+
 게임 족보를 위한 모듈 game_tool2.py
+
 Qt Designer로 만든 ui 파일
-화투 패와 캐릭터 이미지, 음성 파일
-로 구성되어 있습니다.
+
+화투 패와 캐릭터 이미지, 음성 파일로 구성되어 있습니다.
 
 
 
