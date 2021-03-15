@@ -20,17 +20,18 @@ Qt Designer로 만든 ui 파일
 # 개발 환경
 
 ㆍPython 3.7
- 
-ㆍpickle
- 
-ㆍPyQt5
-
-ㆍQt designer
-
-ㆍMySQL 5.7
 
 ㆍPycharm
 
+ㆍQt designer
+ 
+ㆍpickle
+ 
+ㆍPyQt5 5.15.2
+
+ㆍMySQL 5.7
+ 
+ㆍplaysound 1.2.2
 
 # 실행 방법
 코드에 있던 제 ip를 1xx.xxx.xxx.xxx 로 변경해두었습니다. server와 client 스크립트, use_DB 모듈의 ip 부분을 환경에 맞게 설정해주어야 합니다. 
