@@ -79,8 +79,8 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 
 # 게임 장면
 
-![1](https://user-images.githubusercontent.com/66295630/111122957-1bae1b00-85b2-11eb-8a47-6c4816294213.png)
-![2](https://user-images.githubusercontent.com/66295630/111122962-1c46b180-85b2-11eb-91a7-881629bfe050.png)
+![1](https://user-images.githubusercontent.com/66295630/111123080-3da79d80-85b2-11eb-87e8-b0f9625e0823.png)
+![2](https://user-images.githubusercontent.com/66295630/111123084-3e403400-85b2-11eb-9304-bd79e0da7de6.png)
 
 
 ![1](https://user-images.githubusercontent.com/66295630/111086241-6dc55100-855e-11eb-89ec-2f6caa82c8a8.PNG)
