@@ -106,7 +106,7 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 
 
 # 게임 장면
-client window 스크립트를 실행하면 처음 등장하는 화면입니다. 회원가입으로 MySQL server에 계정을 등록하고 성공하면 로그인하여 게임을 실행할 수 있습니다. MySQL server나 server 스크립트가 동작중이지 않으면 게임이 실행되지 않습니다.
+client window 스크립트를 실행하면 처음 등장하는 화면입니다. 회원가입으로 MySQL server에 계정을 등록하고 성공하면 로그인하여 게임을 실행할 수 있습니다. MySQL server나  server 스크립트가 동작중이지 않으면 게임이 실행되지 않습니다.
 
 ![11](https://user-images.githubusercontent.com/66295630/114353986-9d409b00-9ba8-11eb-8969-c4e71d0bd6cf.PNG)
 
