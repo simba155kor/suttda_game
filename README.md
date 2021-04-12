@@ -13,9 +13,9 @@
 
 <b>game_tool2.py</b> 게임 족보를 위한 모듈 
 
-Qt Designer로 만든 ui 파일
+Qt Designer ui 파일
 
-화투 패와 캐릭터 이미지, 음성 파일로 구성되어 있습니다.
+각종 이미지, 음성 파일
 
 
 # 개발 환경
