@@ -34,7 +34,7 @@ Qt Designer로 만든 ui 파일
 
 
 # 실행 방법
-코드에 있던 제 ip를 1xx.xxx.xxx.xxx 로 변경해두었습니다. server와 client 스크립트, use_DB 모듈의 ip 부분을 환경에 맞게 설정해주어야 합니다. 
+코드의 ip 1xx.xxx.xxx.xxx를 서버, 클라이언트, DB 환경에 맞게 설정해주어야 합니다.
 server 스크립트를 실행하고 터미널에서 1을 입력하여 서버를 구동합니다.
 server가 켜져있다면 client_window2 스크립트를 실행하여 게임을 실행합니다. 
 
@@ -101,7 +101,9 @@ pickle의 경우 첫 번째 값은 status_code로 각 메시지가 하는 역할
 
 # 게임 장면
 client window 스크립트를 실행하면 처음 등장하는 화면입니다. 회원가입으로 MySQL server에 계정을 등록하고 성공하면 로그인하여 게임을 실행할 수 있습니다. MySQL server나 server 스크립트가 동작중이지 않으면 게임이 실행되지 않습니다.
+
 ![1](https://user-images.githubusercontent.com/66295630/111123080-3da79d80-85b2-11eb-87e8-b0f9625e0823.png)
+
 ![2](https://user-images.githubusercontent.com/66295630/111123084-3e403400-85b2-11eb-9304-bd79e0da7de6.png)
 
 -------------------------------------------
