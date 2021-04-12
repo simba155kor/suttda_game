@@ -37,7 +37,9 @@ Qt Designer ui 파일
 
 # 실행 방법
 ㆍ코드의 ip 1xx.xxx.xxx.xxx를 서버, 클라이언트, DB 환경에 맞게 설정해주어야 합니다.
+
 ㆍserver 스크립트를 실행하고 터미널에서 1을 입력하여 서버를 구동합니다.
+
 ㆍserver가 켜져있다면 client_window2 스크립트를 실행하여 게임을 실행합니다. 
 
 
